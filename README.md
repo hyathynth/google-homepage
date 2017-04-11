@@ -1,2 +1,2 @@
 # google-homepage
-the purpose of this project is to mock up the google homepage.
+A mock up of the google homepage.
