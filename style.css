@@ -1,0 +1,46 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 14px;
+}
+
+#nav {
+    position:static;
+}
+
+#logo {
+    position: relative;
+    margin-top: 100px;
+    text-align: center;
+
+}
+
+#search {
+    position: relative;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.button {
+    font-size: 13px;
+    font-weight: bold;
+    background-color: rgba(0,0,0,0.1);
+    border: 1px solid #dcdcdc;
+    font-family: arial, sans-serif;
+    border-radius: 2px;
+    color: #757575;
+    height: 30px;
+    width: 150px;
+    
+}
